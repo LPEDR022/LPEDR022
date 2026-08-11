@@ -1,12 +1,13 @@
-👋 Hola, soy Pedro 
+• 👋 Hola, soy Pedro 
 
-🇬🇹 Vivo en Guatemala
+• 🇬🇹 Vivo en Guatemala
 
-🎓 Estudiante de Ingeniería en Sistemas (6º semestre). 
+• 🎓 Estudiante de Ingeniería en Sistemas (6º semestre). 
 
-💻 Desarrollador en formación.
+• 💻 Desarrollador en formación.
 
-🛠️ Actual Mente Aprendiendo 
-☕Java • 🌱Spring Boot • 🌐HTML • 🎨CSS • ⚡JavaScript 🔧Git • GitHub • SQL
+• 🛠️ Actual Mente Aprendiendo 
 
-🚀 Actualmente Desarrollando proyectos y fortaleciendo mis conocimientos en desarrollo de software.
+•☕Java • 🌱Spring Boot • 🌐HTML • 🎨CSS • ⚡JavaScript 🔧Git • GitHub • SQL
+
+• 🚀 Actualmente Desarrollando proyectos y fortaleciendo mis conocimientos en desarrollo de software.
