@@ -1,4 +1,5 @@
 👋 Hola, soy Pedro 
+
 🇬🇹 Vivo en Guatemala
 
 🎓 Estudiante de Ingeniería en Sistemas (6º semestre). 
